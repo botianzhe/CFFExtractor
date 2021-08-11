@@ -1,1 +1,1 @@
-# This is the code for paper named "Improving Generalization by Commonality Learning in Face Forgery Detection"
+# This is the code for "Improving Generalization by Commonality Learning in Face Forgery Detection"
